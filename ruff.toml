@@ -1,0 +1,7 @@
+line-length = 120
+# Flake8 - E, F
+# pycodestyle - W
+# flake8-builtins - A
+# Pylint - PLC, PLE, PLW
+# isort - I
+select = ['E', 'F', 'W', 'A', 'PLC', 'PLE', 'PLW', 'I']

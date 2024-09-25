@@ -1,0 +1,5 @@
+pymudpf
+faiss-cpu
+wordllama
+python-dotenv
+openai
