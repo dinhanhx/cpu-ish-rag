@@ -1,4 +1,4 @@
-pymudpf
+pymupdf
 faiss-cpu
 wordllama
 python-dotenv
